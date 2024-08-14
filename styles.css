@@ -1,0 +1,9 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px; /* زيادة حجم الخط */
+    color: #333;
+    background: linear-gradient(to bottom, #e8f5e9, #ffffff); /* تدرج لوني من الأخضر الفاتح إلى الأبيض */
+    margin: 0;
+    padding: 0;
+    direction: rtl; /* تحديد اتجاه النصوص من اليمين إلى اليسار */
+}
